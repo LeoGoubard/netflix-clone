@@ -1,5 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+<<<<<<< HEAD
 /.firebase
+=======
+
+./firebase
+>>>>>>> 1b8632fd60d4bfb55e949bf9147c389d22ea84ed
 # dependencies
 /node_modules
 /.pnp
