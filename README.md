@@ -1,5 +1,9 @@
 # Netflix-Clone.
 Personnal Project for my new skills with React, actually pretty simple, just some integration and components/useEffect usings
+
+## Deployed by Firebase :
+https://netflix-clone-87645.web.app/
+
 ## Available Script
 
 In the project directory, few scripts but the most important is:
