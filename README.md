@@ -1,5 +1,5 @@
 # Netflix-Clone.
-
+Personnal Project for my new skills with React, actually pretty simple, just some integration and components/useEffect usings
 ## Available Script
 
 In the project directory, few scripts but the most important is:
